@@ -3,7 +3,7 @@
   "wake_word": "Carolyn",
   "author": "Scott Spies",
   "website": "https://",
-  "model": "github://cryocide/micro-wake-word-models/models/v2/carolyn.tflite",
+  "model": "./carolyn.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
